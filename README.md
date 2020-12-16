@@ -108,8 +108,8 @@
 | 277  | Find the Celebrity                                        | 38\.50% | Medium |        |
 | 141  | Linked List Cycle                                         | 38\.40% | Easy   |        |
 | 148  | Sort List                                                 | 37\.70% | Medium |        |
-| 172  | Factorial Trailing Zeroes                                 | 37\.60% | Easy   |        |
-| 20   | Valid Parentheses                                         | 37\.40% | Easy   |        |
+| 172  | Factorial Trailing Zeroes                                 | 37\.60% | Easy   | ok     |
+| 20   | Valid Parentheses                                         | 37\.40% | Easy   | ok     |
 | 234  | Palindrome Linked List                                    | 37\.20% | Easy   |        |
 | 88   | Merge Sorted Array                                        | 37\.10% | Easy   |        |
 | 56   | Merge Intervals                                           | 36\.90% | Medium |        |
