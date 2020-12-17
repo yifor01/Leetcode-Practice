@@ -111,7 +111,7 @@
 | 172  | Factorial Trailing Zeroes                                 | 37\.60% | Easy   | ok     |
 | 20   | Valid Parentheses                                         | 37\.40% | Easy   | ok     |
 | 234  | Palindrome Linked List                                    | 37\.20% | Easy   |        |
-| 88   | Merge Sorted Array                                        | 37\.10% | Easy   |        |
+| 88   | Merge Sorted Array                                        | 37\.10% | Easy   | ok     |
 | 56   | Merge Intervals                                           | 36\.90% | Medium |        |
 | 139  | Word Break                                                | 36\.90% | Medium |        |
 | 210  | Course Schedule II                                        | 36\.60% | Medium |        |
@@ -121,7 +121,7 @@
 | 227  | Basic Calculator II                                       | 34\.80% | Medium |        |
 | 19   | Remove Nth Node From End of List                          | 34\.60% | Medium |        |
 | 34   | Find First and Last Position of Element in Sorted Array   | 34\.40% | Medium |        |
-| 14   | Longest Common Prefix                                     | 34\.20% | Easy   |        |
+| 14   | Longest Common Prefix                                     | 34\.20% | Easy   | ok     |
 | 150  | Evaluate Reverse Polish Notation                          | 33\.70% | Medium |        |
 | 190  | Reverse Bits                                              | 33\.30% | Easy   |        |
 | 33   | Search in Rotated Sorted Array                            | 33\.20% | Medium |        |
@@ -167,7 +167,3 @@
 - Github - [Link](https://github.com/chiphuyen/python-is-cool)
 
 - Github - [Link](https://github.com/sahands/python-by-example/blob/master/python-by-example.rst#flattening-lists)
-
-
-
-
