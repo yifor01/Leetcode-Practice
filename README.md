@@ -123,17 +123,17 @@
 | 34   | Find First and Last Position of Element in Sorted Array   | 34\.40% | Medium |        |
 | 14   | Longest Common Prefix                                     | 34\.20% | Easy   | ok     |
 | 150  | Evaluate Reverse Polish Notation                          | 33\.70% | Medium |        |
-| 190  | Reverse Bits                                              | 33\.30% | Easy   |        |
+| 190  | Reverse Bits                                              | 33\.30% | Easy   | ok     |
 | 33   | Search in Rotated Sorted Array                            | 33\.20% | Medium |        |
-| 28   | Implement strStr\(\)                                      | 33\.10% | Easy   |        |
+| 28   | Implement strStr\(\)                                      | 33\.10% | Easy   | ok     |
 | 55   | Jump Game                                                 | 32\.70% | Medium |        |
 | 79   | Word Search                                               | 32\.60% | Medium |        |
-| 125  | Valid Palindrome                                          | 32\.60% | Easy   |        |
-| 69   | Sqrt\(x\)                                                 | 32\.30% | Easy   |        |
+| 125  | Valid Palindrome                                          | 32\.60% | Easy   | ok     |
+| 69   | Sqrt\(x\)                                                 | 32\.30% | Easy   | ok     |
 | 76   | Minimum Window Substring                                  | 32\.20% | Hard   |        |
 | 322  | Coin Change                                               | 32\.20% | Medium |        |
 | 2    | Add Two Numbers                                           | 32\.00% | Medium |        |
-| 189  | Rotate Array                                              | 31\.80% | Easy   |        |
+| 189  | Rotate Array                                              | 31\.80% | Medium |        |
 | 54   | Spiral Matrix                                             | 31\.70% | Medium |        |
 | 152  | Maximum Product Subarray                                  | 30\.20% | Medium |        |
 | 204  | Count Primes                                              | 30\.00% | Easy   |        |
