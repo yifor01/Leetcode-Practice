@@ -29,7 +29,7 @@
 | 378  | Kth Smallest Element in a Sorted Matrix                   | 51\.00% | Medium | ok     |
 | 384  | Shuffle an Array                                          | 51\.00% | Medium | ok     |
 | 387  | First Unique Character in a String                        | 50\.80% | Easy   | ok     |
-| 1011 | Capacity To Ship Packages Within D Days                   | 56\.00% | Medium |        |
+| 1011 | Capacity To Ship Packages Within D Days                   | 56\.00% | Medium | ok     |
 | 929  | Unique Email Addresses                                    | 68\.00% | Easy   | ok     |
 | 779  | K\-th Symbol in Grammar                                   | 37\.30% | Medium |        |
 | 776  | Split BST                                                 | 53\.80% | Medium |        |
